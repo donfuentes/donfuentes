@@ -2,6 +2,8 @@
 
 Como te cuento en mi perfil soy Ingeniero de Sistemas con más de 15 años de experiencia en la administración y análisis de datos. He podido participar en múltiples proyectos de Inteligencia de Negocios en diferentes compañías (Nacionales y Multinacionales), así como en diferentes negocios. He trabajado con empresas del sector Salud, Seguros, Farma, Corredores de Bolsa, Transporte y Seguros. 
 
+Ah, y si te lo estabas preguntando, sí, mi nombre es Don Alfredo.
+
 ### Tecnologías ⚡
 
 La gran mayoría de proyectos en los que he trabajado, han tenido como base la suite completa de Microsoft Sql Server (soy profesional certificado MCSE), utilizando sus componentes principales (Sql Server, Integration Services, Analisys Services y Reporting Services) y diferentes visualizadores como Power BI, Tableu y Qlick. 
