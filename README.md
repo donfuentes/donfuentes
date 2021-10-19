@@ -4,6 +4,8 @@ Como te cuento en mi perfil soy Ingeniero de Sistemas con más de 15 años de ex
 
 Ah, y si te lo estabas preguntando, sí, mi nombre es Don Alfredo.
 
+![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
+
 ### Tecnologías ⚡
 
 La gran mayoría de proyectos en los que he trabajado, han tenido como base la suite completa de Microsoft Sql Server (soy profesional certificado MCSE), utilizando sus componentes principales (Sql Server, Integration Services, Analisys Services y Reporting Services) y diferentes visualizadores como Power BI, Tableu y Qlick. 
