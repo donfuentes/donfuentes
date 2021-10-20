@@ -12,7 +12,7 @@ La gran mayoría de proyectos en los que he trabajado, han tenido como base la s
 
 Tengo experiencia utilizando Power Query para PBI, DAX y MDX para modelos de analisys services.
 
-Actualmente estoy sentando las bases en JavaScript, iniciando en frontend con React y con las actividades de Platzi Master C8, espero muy pronto tener conocimientos de Node, Express y Mongo para lograr el objetivo de convertirme en desarrollador FullStack.
+Actualmente estoy sentando las bases en JavaScript, iniciando en frontend con React, avanzando con Python para data science y con las actividades de Platzi Master C8, espero muy pronto tener conocimientos de Node, Express y Mongo para lograr el objetivo de convertirme en desarrollador FullStack y de paso convertirme en el mejor data engineer.
 
 #NuncaParesDeAprender
 
