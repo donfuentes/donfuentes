@@ -1,6 +1,6 @@
 ## Bienvenidos 👋
 
-Como te cuento en mi perfil soy Ingeniero de Sistemas con más de 15 años de experiencia en la administración y análisis de datos. He podido participar en múltiples proyectos de Inteligencia de Negocios en diferentes compañías (Nacionales y Multinacionales) de diversos sectores. engo experiencia con empresas del sector Salud, Seguros, Farma, Bolsa de Valores, Transporte, Seguros y con algunas entidades del sector Público. 
+Como te cuento en mi perfil soy Ingeniero de Sistemas con más de 15 años de experiencia en la administración y análisis de datos. He podido participar en múltiples proyectos de Inteligencia de Negocios en diferentes compañías (Nacionales y Multinacionales) de diversos sectores. Tengo experiencia con empresas del sector Salud, Seguros, Farma, Bolsa de Valores, Transporte, Seguros y con algunas entidades del sector Público. 
 
 Ah, y si te lo estabas preguntando, sí, mi nombre es Don Alfredo.
 
