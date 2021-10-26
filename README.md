@@ -8,7 +8,7 @@ Ah, y si te lo estabas preguntando, sí, mi nombre es Don Alfredo.
 
 ### Tecnologías ⚡
 
-La gran mayoría de proyectos en los que he trabajado, han tenido como base la suite completa de Microsoft Sql Server (soy profesional certificado MCSE), utilizando sus componentes principales (Sql Server, Integration Services, Analisys Services y Reporting Services) y diferentes visualizadores como Power BI, Tableu y Qlick. 
+La gran mayoría de proyectos en los que he trabajado, han tenido como base la suite completa de Microsoft Sql Server (soy profesional certificado MCSE), utilizando sus componentes principales (Sql Server, Integration Services, Analysis Services y Reporting Services) y diferentes visualizadores como Power BI, Tableu y Qlick. 
 
 Tengo experiencia utilizando Power Query para PBI, DAX y MDX para modelos de analisys services.
 
