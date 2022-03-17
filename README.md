@@ -6,11 +6,11 @@ As I tell you in my profile, I am a Systems Engineer with more than 12 years of 
 
 ### Tecnologies ⚡
 
-The most projects I have worked on have been based on the MS SQL Server Suite (I am a certified MCSE professional), using its main components (MSSQL, SSIS, SSAS and SSRS) and different visualizations tools such as Power BI, Tableu and Qlick.
+The most projects I have worked on have been based on the MS SQL Server Suite (Microsoft Certified Professional MCSE - MCT), using its main components (MSSQL, SSIS, SSAS and SSRS) and different visualizations tools such as Power BI, Tableu and Qlick.
 
 I have experience using Power Query for PBI, DAX and MDX for SSAS models and currently I´m advancing with Python for data science and Looker for data analysis in GCP.
 
-#NuncaParesDeAprender
+#NuncaParesDeAprender #NeverStopLearning
 
 
 
