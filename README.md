@@ -1,18 +1,14 @@
-## Bienvenidos 👋
+## Welcome 👋
 
-Como te cuento en mi perfil soy Ingeniero de Sistemas con más de 15 años de experiencia en la administración y análisis de datos. He podido participar en múltiples proyectos de Inteligencia de Negocios en diferentes compañías (Nacionales y Multinacionales) de diversos sectores. Tengo experiencia con empresas del sector Salud, Seguros, Farma, Bolsa de Valores, Transporte, Seguros y con algunas entidades del sector Público. 
-
-Ah, y si te lo estabas preguntando, sí, mi nombre es Don Alfredo.
+As I tell you in my profile, I am a Systems Engineer with more than 12 years of experience in data administration and analysis. I have been able to participate in multiple Business Intelligence projects as Technical Leader as well as BI Developer for different in multiples industries. I have experience with companies in Health Services, Insurance, Pharma, Stock Exchange, Transport and with some public sector entities.
 
 ![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
 
-### Tecnologías ⚡
+### Tecnologies ⚡
 
-La gran mayoría de proyectos en los que he trabajado, han tenido como base la suite completa de Microsoft Sql Server (soy profesional certificado MCSE), utilizando sus componentes principales (Sql Server, Integration Services, Analysis Services y Reporting Services) y diferentes visualizadores como Power BI, Tableu y Qlick. 
+The most projects I have worked on have been based on the MS SQL Server Suite (I am a certified MCSE professional), using its main components (MSSQL, SSIS, SSAS and SSRS) and different visualizations tools such as Power BI, Tableu and Qlick.
 
-Tengo experiencia utilizando Power Query para PBI, DAX y MDX para modelos de analisys services.
-
-Actualmente estoy sentando las bases en JavaScript, iniciando en frontend con React, avanzando con Python para data science y con las actividades de Platzi Master C8, espero muy pronto tener conocimientos de Node, Express y Mongo para lograr el objetivo de convertirme en desarrollador FullStack y de paso convertirme en el mejor data engineer.
+I have experience using Power Query for PBI, DAX and MDX for SSAS models and currently I´m advancing with Python for data science and Looker for data analysis in GCP.
 
 #NuncaParesDeAprender
 
