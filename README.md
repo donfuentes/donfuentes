@@ -1,18 +1,14 @@
 ## Welcome 👋
 
-As I tell you in my profile, I am a Systems Engineer with more than 12 years of experience in data administration and analysis. I have been able to participate in multiple Business Intelligence projects as Technical Leader as well as BI Developer for different in multiples industries. I have experience with companies in Health Services, Insurance, Pharma, Stock Exchange, Transport and with some public sector entities.
+I am a results-driven Systems Engineer with over 17 years of expertise in designing, building, and optimizing scalable data engineering and architecture solutions. I hold an MBA and a Master’s degree in Business Intelligence and am an Azure Certified Professional in Data Engineering, Data Architecture, and Fabric, as well as a Microsoft Certified Trainer (MCT).
 
-![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
+I have extensive experience working with Microsoft Azure Cloud services, including Azure Data Factory (ADF), Azure Databricks, Delta Lake, Azure Data Lake Storage, SQL Server, Power BI, and Fabric. Additionally, I have strong proficiency in third-party solutions such as MySQL, PostgreSQL, MongoDB, Oracle, ODI, and GCP. My technical skills include programming languages like JavaScript and Python, data integration technologies such as SSIS, ADF, and Talend, analytics tools including SSAS and Fabric, and reporting solutions such as Power BI, Tableau, and SSRS.
 
-### Tecnologies ⚡
+Throughout my career, I have taken on both technical and leadership roles, gaining deep hands-on experience as a BI Developer, Data Engineer, and Data Architect, while also leading teams in roles such as Project Manager, Project Lead, Technical Lead, Database Coordinator, and Technology Director. I have designed and implemented end-to-end data solutions while actively developing, optimizing, and troubleshooting complex data workflows.
 
-The most projects I have worked on have been based on the MS SQL Server Suite (Microsoft Certified Professional MCSE - MCT), using its main components (MSSQL, SSIS, SSAS and SSRS) and different visualizations tools such as Power BI, Tableu and Qlick.
+I have led and contributed to numerous projects, including implementing data solutions, migrating third-party solutions, transitioning on-premises systems to cloud platforms, and enhancing and maintaining existing on-premises and cloud-based solutions. My work is grounded in agile methodologies, with a strong focus on the Scrum framework.
 
-I have experience using Power Query for PBI, DAX and MDX for SSAS models and currently I´m advancing with Python for data science and Looker for data analysis in GCP.
-
-#NuncaParesDeAprender #NeverStopLearning
-
-
+I am recognized for my adaptability and results-oriented mindset, with a strong commitment to achieving objectives. My dynamic and proactive approach, combined with exceptional problem-solving skills, enables me to tackle complex challenges and transform them into efficient and effective solutions.
 
 <!--
 **donfuentes/donfuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
